@@ -5,23 +5,46 @@
     "editor.minimap.enabled": false,
     "editor.renderWhitespace": "trailing",
     "editor.fontSize": 18,
+    "editor.lineHeight": 28,
     "editor.linkedEditing": true,
     "editor.suggest.insertMode": "replace",
     "editor.acceptSuggestionOnCommitCharacter": false,
+    "editor.fontLigatures": true,
     "files.autoSave": "afterDelay",
     "files.defaultLanguage": "javascript",
     "explorer.compactFolders": false,
     "explorer.autoReveal": false,
     "workbench.tree.indent": 15,
     "workbench.tree.renderIndentGuides": "always",
-    "workbench.colorTheme": "Default Dark+",
+    "workbench.colorTheme": "Abyss",
+    "workbench.iconTheme": "material-icon-theme",
     "workbench.editor.closeOnFileDelete": true,
     "workbench.editor.languageDetection": false,
     "workbench.editor.enablePreview": false,
-    "workbench.iconTheme": "material-icon-theme",
+    "workbench.colorCustomizations": {
+        "[Abyss]": {
+            "editor.selectionBackground": "#001eff55",
+            "editor.selectionHighlightBackground": "#001eff55"
+        }
+    },
     "emmet.triggerExpansionOnTab": true,
     "git.enableSmartCommit": true,
+    "material-icon-theme.hidesExplorerArrows": true,
     "files.associations": {
         "*.ejs": "html"
     },
+    "multiCommand.commands": [
+        {
+            "command": "multiCommand.makeRoom",
+            "sequence": [
+                "workbench.action.toggleSidebarVisibility",
+                "workbench.action.toggleActivityBarVisibility"
+            ]
+        }
+    ],
+    "[javascript]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "javascript.preferences.importModuleSpecifierEnding": "js",
+    "typescript.preferences.importModuleSpecifierEnding": "js"
 }
