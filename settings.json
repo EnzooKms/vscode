@@ -1,0 +1,27 @@
+{
+    "window.zoomLevel": 2,
+    "editor.formatOnSave": true,
+    "editor.formatOnPaste": true,
+    "editor.minimap.enabled": false,
+    "editor.renderWhitespace": "trailing",
+    "editor.fontSize": 18,
+    "editor.linkedEditing": true,
+    "editor.suggest.insertMode": "replace",
+    "editor.acceptSuggestionOnCommitCharacter": false,
+    "files.autoSave": "afterDelay",
+    "files.defaultLanguage": "javascript",
+    "explorer.compactFolders": false,
+    "explorer.autoReveal": false,
+    "workbench.tree.indent": 15,
+    "workbench.tree.renderIndentGuides": "always",
+    "workbench.colorTheme": "Default Dark+",
+    "workbench.editor.closeOnFileDelete": true,
+    "workbench.editor.languageDetection": false,
+    "workbench.editor.enablePreview": false,
+    "workbench.iconTheme": "material-icon-theme",
+    "emmet.triggerExpansionOnTab": true,
+    "git.enableSmartCommit": true,
+    "files.associations": {
+        "*.ejs": "html"
+    },
+}
