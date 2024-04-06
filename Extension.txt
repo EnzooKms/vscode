@@ -1,0 +1,35 @@
+esbenp.prettier-vscode
+Prettier est un formateur de code qui prend en charge de nombreux langages et qui s'intègre avec VS Code. 
+Il aide à garder votre code propre et conforme à un style de codage.
+
+formulahendry.code-runner
+Code Runner permet d'exécuter des morceaux de code ou des fichiers entiers pour divers langages de programmation 
+directement depuis VS Code, ce qui facilite le test rapide de votre code.
+
+hediet.vscode-drawio
+Cette extension intègre draw.io dans VS Code, permettant de créer et d'éditer des diagrammes directement dans l'éditeur. 
+Très utile pour la documentation ou la planification de l'architecture logicielle.
+
+jeff-hykin.polacode-2019
+Polacode vous permet de prendre de jolies captures d'écran de votre code dans VS Code, 
+idéal pour partager des extraits de code sur les réseaux sociaux ou dans des documents.
+
+pkief.material-icon-theme
+Material Icon Theme fournit une vaste collection d'icônes basées sur le Material Design pour les fichiers et les dossiers, 
+améliorant visuellement la navigation dans l'arborescence des fichiers de VS Code.
+
+ryuta46.multi-command
+Multi-command permet de définir des séquences de commandes à exécuter en une seule action dans VS Code. 
+Cela peut être utile pour automatiser des tâches répétitives.
+
+streetsidesoftware.code-spell-checker
+Un vérificateur orthographique qui aide à détecter les fautes de frappe et les erreurs d'orthographe dans votre code, 
+supportant plusieurs langues.
+
+streetsidesoftware.code-spell-checker-french
+C'est l'extension de dictionnaire français pour le vérificateur orthographique ci-dessus, 
+permettant la vérification orthographique en français.
+
+tabnine.tabnine-vscode
+Tabnine est un assistant de codage alimenté par l'intelligence artificielle qui fournit des complétions de code intelligentes 
+basées sur des modèles appris à partir de millions de programmes.
